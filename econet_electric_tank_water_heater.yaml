@@ -18,7 +18,7 @@ climate:
     visual:
       min_temperature: "43.3333"
       max_temperature: "60"
-      temperature_step: 1.0f
+      temperature_step: 1.0F
     current_temperature_datapoint: UPHTRTMP
     target_temperature_datapoint: WHTRSETP
     mode_datapoint: WHTRENAB
